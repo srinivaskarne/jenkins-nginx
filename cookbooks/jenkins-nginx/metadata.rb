@@ -1,0 +1,7 @@
+name 'jenkins-nginx'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures jenkins-nginx'
+long_description 'Installs/Configures jenkins-nginx'
+version '0.1.0'
